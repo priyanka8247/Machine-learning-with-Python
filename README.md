@@ -1,1 +1,1 @@
-# Machine-learning-with-Python-linear-regression
+# Machine-learning-with-Python
